@@ -1,6 +1,6 @@
 # MachineLearning_Scripts
 
-Codes are written to compensate the Machine Learning course by Andrew NG (CS-229) given in Stanford university.
+Codes are written to compensate the learning from Machine Learning course by Andrew NG (CS-229) given in Stanford university.
 
 Reference to syllabus: https://cs229.stanford.edu/syllabus-summer2019.html
 
